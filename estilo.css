@@ -1,0 +1,21 @@
+
+#cabecera{
+    background: rgba(71, 165, 112, 0.226);
+    color: black;
+}
+
+.destacado{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+
+
+.div{
+    border: 1px solid black;
+    width: 700px;
+    padding: 15px;
+    margin: 10px;
+}
+
